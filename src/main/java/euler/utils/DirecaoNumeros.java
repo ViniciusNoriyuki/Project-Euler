@@ -1,0 +1,5 @@
+package utils;
+
+public enum DirecaoNumeros {
+    VERTICAL,HORIZONTAL,DIAGONAL_ESQUERDADIREITA,DIAGONAL_DIREITAESQUERDA;
+}
